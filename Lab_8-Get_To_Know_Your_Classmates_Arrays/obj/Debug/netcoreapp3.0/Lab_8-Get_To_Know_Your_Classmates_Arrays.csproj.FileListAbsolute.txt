@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.exe
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.deps.json
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.runtimeconfig.json
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.dll
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\bin\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.pdb
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\obj\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\obj\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\obj\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\obj\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.dll
+C:\Users\kyleg\source\repos\Lab_8-Get_To_Know_Your_Classmates_Arrays\Lab_8-Get_To_Know_Your_Classmates_Arrays\obj\Debug\netcoreapp3.0\Lab_8-Get_To_Know_Your_Classmates_Arrays.pdb
